@@ -1,4 +1,4 @@
-### Hello!
+## Hello!
 
 I dont really know what to put here soo...
 
@@ -6,13 +6,16 @@ I'm Ay355 (not gonna give away the real name) and I mainly code in python, but I
 
 If for some reason you need to contact me, ig you could open an issue on this repo.
 
-## Stuff I know:
+# Stuff I know:
  - Python (Pretty good at)
  - Bit of C++ (Looking to learn more)
  - SQL (SQLite & PostgreSQL)
 
  
-## Things I'm currently working on
+# Things I'm currently working on
+<details>
+<summary>Projects</summary>
+ 
 [Standle](https://discord.com/oauth2/authorize?client_id=810345494223781899&scope=bot&permissions=8)
  - A multipurpose discord bot for your server made with python and discord.py.
 
@@ -23,17 +26,20 @@ If for some reason you need to contact me, ig you could open an issue on this re
  - A rubik's cube timer I'm making to practice C++
 
 That's pretty much it, other stuff is closed-source or I'm too lazy to continue doing.
+</details>
 
-<a href="https://stackoverflow.com/users/15223133/ay355"><img src="https://stackoverflow.com/users/flair/15223133.png?theme=dark" width="208" height="58" alt="profile for Ay355 at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="Ay355's Stackoverflow profile"></a>
+
+
+# Other Cool Metrics
+<details>
+<summary>Stats</summary>
 
 <a href="https://github.com/Ay-355">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ay-355&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" />
 </a><a href="https://github.com/Ay-355">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ay-355&hide=toml&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 </a>
-
-### Other Cool Metrics
-
+ 
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
@@ -111,3 +117,4 @@ C++                      1 repo              ███░░░░░░░░�
 
  Last Updated on 15/06/2021
 <!--END_SECTION:waka-->
+</details>
