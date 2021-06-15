@@ -6,21 +6,23 @@ I'm Ay355 (not gonna give away the real name) and I mainly code in python, but I
 
 If for some reason you need to contact me, ig you could open an issue on this repo.
 
-# Stuff I know:
+## Stuff I know:
  - Python (Pretty good at)
  - Bit of C++ (Looking to learn more)
  - SQL (SQLite & PostgreSQL)
 
  
-# Things I'm currently working on
+## Things I'm currently working on
+
 <details>
-<summary>Projects</summary>
+ <summary>My Projects</summary>
+<br>
  
 [Standle](https://discord.com/oauth2/authorize?client_id=810345494223781899&scope=bot&permissions=8)
  - A multipurpose discord bot for your server made with python and discord.py.
 
 [RoboAy355](https://github.com/Ay-355/RoboAy355)
- - Just a discord bot for testing out the new features in discord.py 2.0
+ - A personal discord bot that I use for random things.
 
 [cube-timer](https://github.com/Ay-355/cube-timer)
  - A rubik's cube timer I'm making to practice C++
@@ -29,16 +31,23 @@ That's pretty much it, other stuff is closed-source or I'm too lazy to continue 
 </details>
 
 
+---
+## Other Cool Metrics
 
-# Other Cool Metrics
+
 <details>
 <summary>Stats</summary>
-
+<br>
+ 
 <a href="https://github.com/Ay-355">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ay-355&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" />
 </a><a href="https://github.com/Ay-355">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ay-355&hide=toml&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 </a>
+
+ 
+&nbsp;
+
  
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
