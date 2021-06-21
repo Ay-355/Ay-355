@@ -2,37 +2,39 @@
 
 I dont really know what to put here soo...
 
-I'm Ay355 (not gonna give away the real name) and I mainly code in python, but I'm looking to do some other stuff, such as C++ and some web dev (if I still like it)
+I'm Ay355 and I mainly code in python, but I'm learning some web dev
 
 If for some reason you need to contact me, ig you could open an issue on this repo.
 
-## Stuff I know:
+### Langs:
  - Python (Pretty good at)
- - Bit of C++ (Looking to learn more)
  - SQL (SQLite & PostgreSQL)
+ - HTML & CSS (still learning/practicing)
+ - Javascript (also still learning/practicing)
 
  
-## Things I'm currently working on
+### Things I'm currently working on
 
 <details>
  <summary>My Projects</summary>
 <br>
  
 [Standle](https://discord.com/oauth2/authorize?client_id=810345494223781899&scope=bot&permissions=8)
- - A multipurpose discord bot for your server made with python and discord.py.
+ - A multipurpose discord bot for your server made with discord.py.
 
 [RoboAy355](https://github.com/Ay-355/RoboAy355)
  - A personal discord bot that I use for random things.
 
-[cube-timer](https://github.com/Ay-355/cube-timer)
- - A rubik's cube timer I'm making to practice C++
+[Asyncdictionary](https://github.com/Ay-355/asyncdictionary)
+ - An async wrapper for a dictionary API. See the README for more info.
 
-That's pretty much it, other stuff is closed-source or I'm too lazy to continue doing.
+ 
+That's pretty much it, other stuff is closed-source cause I'm spending most of my time learning.
+ 
 </details>
 
 
----
-## Other Cool Metrics
+### Other Cool Metrics
 
 
 <details>
