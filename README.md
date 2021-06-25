@@ -1,26 +1,24 @@
 ## Hello!
 
-I dont really know what to put here soo...
 
-I'm Ay355 and I mainly code in python, but I'm learning some web dev
+I'm Ay355 and I mainly code in python, but I'm currently learning web development (html/css/js). I honestly don't know what else to put here, other than Coding is fun.
 
-If for some reason you need to contact me, ig you could open an issue on this repo.
 
-### Langs:
+### Languages:
  - Python (Pretty good at)
  - SQL (SQLite & PostgreSQL)
  - HTML & CSS (still learning/practicing)
  - Javascript (also still learning/practicing)
 
  
-### Things I'm currently working on
+### Projects I'm currently working on
 
 <details>
  <summary>My Projects</summary>
 <br>
  
 [Standle](https://discord.com/oauth2/authorize?client_id=810345494223781899&scope=bot&permissions=8)
- - A multipurpose discord bot for your server made with discord.py.
+ - A multipurpose discord bot for your discord server. Has useful and fun commands for you to mess around with. Made with [discord.py](https://www.github.com/Rapptz/discord.py).
 
 [RoboAy355](https://github.com/Ay-355/RoboAy355)
  - A personal discord bot that I use for random things.
@@ -44,11 +42,11 @@ That's pretty much it, other stuff is closed-source cause I'm spending most of m
 <a href="https://github.com/Ay-355">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ay-355&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" />
 </a><a href="https://github.com/Ay-355">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ay-355&hide=toml&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ay-355&hide=toml,yaml,cmake&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 </a>
 
  
-&nbsp;
+&nbsp; <!-- Space character to put some space between the different stat types. -->
 
  
 <!--START_SECTION:waka-->
