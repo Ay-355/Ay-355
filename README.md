@@ -54,7 +54,7 @@ That's pretty much it, other stuff is closed-source cause I'm spending most of m
 
 > 🏆 348 Contributions in the Year 2021
  > 
-> 📦 928 Bytes Used in Github's Storage 
+> 📦 930 Bytes Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -121,6 +121,6 @@ C++                      1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 11/07/2021
+ Last Updated on 12/07/2021
 <!--END_SECTION:waka-->
 </details>
