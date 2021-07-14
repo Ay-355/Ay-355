@@ -1,7 +1,7 @@
 ## Hello!
 
 
-I'm Ay355 and I mainly code in python, but I'm currently learning web development (html/css/js). I honestly don't know what else to put here.
+I'm Ay355 and I mainly code in python, but I'm currently learning web development.
 
 
 ### Languages:
