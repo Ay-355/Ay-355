@@ -52,7 +52,7 @@ That's pretty much it, other stuff is closed-source cause I'm spending most of m
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 406 Contributions in the Year 2021
+> 🏆 407 Contributions in the Year 2021
  > 
 > 📦 1.0 kB Used in Github's Storage 
  > 
@@ -120,6 +120,6 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 01/08/2021
+ Last Updated on 02/08/2021
 <!--END_SECTION:waka-->
 </details>
