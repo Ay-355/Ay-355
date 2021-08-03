@@ -52,7 +52,7 @@ That's pretty much it, other stuff is closed-source cause I'm spending most of m
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 407 Contributions in the Year 2021
+> 🏆 408 Contributions in the Year 2021
  > 
 > 📦 1.0 kB Used in Github's Storage 
  > 
@@ -74,11 +74,11 @@ That's pretty much it, other stuff is closed-source cause I'm spending most of m
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday       36 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.0% 
+Monday       37 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.44% 
 Tuesday      32 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.22% 
 Wednesday    24 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.67% 
 Thursday     42 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.67% 
-Friday       32 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.22% 
+Friday       31 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.78% 
 Saturday     33 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.67% 
 Sunday       26 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.56%
 
@@ -120,6 +120,6 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 02/08/2021
+ Last Updated on 03/08/2021
 <!--END_SECTION:waka-->
 </details>
