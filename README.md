@@ -1,39 +1,10 @@
 <h1 align="center"><b>Ay355</b></h1>
 
----
 
-Hello! I'm Ay355 and I mainly code in python, but I'm currently learning web dev.
-
-
-### Skills
-
-Mostly Python. Though I'm getting better at JavaScript, HTML, and CSS. And Rust because it's the new thing and it's fun.
+Hello! I'm Ay355. I code mostly in Python and Rust, and I'm learning Haskell and Typescript.
 
 
-### Projects
-
-<details>
- <summary>Click Here</summary>
-<br>
-
- This is probably out of date
-
-[Standle](https://discord.com/oauth2/authorize?client_id=810345494223781899&scope=bot&permissions=8)
- - A multipurpose discord bot for your discord server. Has useful and fun commands for you to mess around with. Made with [discord.py](https://www.github.com/Rapptz/discord.py).
-
-[RoboAy355](https://github.com/Ay-355/RoboAy355)
- - A personal discord bot that I use for random things.
-
-[Asyncdictionary](https://github.com/Ay-355/asyncdictionary)
- - An async wrapper for the freedictionaryAPI. See the README for more info.
-
- 
-That's pretty much it, other stuff is closed-source.
- 
-</details>
-
-
-### Other Cool Metrics
+#### Some Stats
 
 
 <details>
