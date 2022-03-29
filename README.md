@@ -24,7 +24,7 @@ Hello! I'm Ay355. I code mostly in Python and Rust, and I'm learning Haskell and
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 🏆 55 Contributions in the Year 2022
+> 🏆 56 Contributions in the Year 2022
  > 
 > 📦 1.8 kB Used in GitHub's Storage 
  > 
@@ -63,7 +63,8 @@ Sunday       36 commits     ██░░░░░░░░░░░░░░░�
 💬 Programming Languages: 
 Python                   4 hrs 48 mins       ████████████████████████░   97.56% 
 Text                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.74% 
-Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.7%
+Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.7% 
+PowerShell               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
 Neovim                   3 hrs 53 mins       ███████████████████░░░░░░   78.95% 
@@ -90,6 +91,6 @@ Rust                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 28/03/2022 13:02:53 UTC
+ Last Updated on 29/03/2022 13:03:37 UTC
 <!--END_SECTION:waka-->
 </details>
