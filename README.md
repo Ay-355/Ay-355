@@ -63,16 +63,16 @@ Sunday       32 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-PowerShell               1 min               █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   1 min               █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          1 min               █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 min               █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -88,6 +88,6 @@ Rust                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 24/06/2022 13:14:17 UTC
+ Last Updated on 25/06/2022 12:59:32 UTC
 <!--END_SECTION:waka-->
 </details>
