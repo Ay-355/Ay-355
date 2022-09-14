@@ -36,46 +36,6 @@ Hello! I'm Ay355. I code mostly in Python and Rust, and I'm learning Haskell and
  > 
 > 🔑 3 Private Repositories  
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    21 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.53% 
-🌆 Daytime    112 commits    ██████████░░░░░░░░░░░░░░░   40.14% 
-🌃 Evening    139 commits    ████████████░░░░░░░░░░░░░   49.82% 
-🌙 Night      7 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.51%
-
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday       59 commits     █████░░░░░░░░░░░░░░░░░░░░   21.15% 
-Tuesday      42 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.05% 
-Wednesday    39 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.98% 
-Thursday     39 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.98% 
-Friday       34 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.19% 
-Saturday     35 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.54% 
-Sunday       31 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.11%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -88,6 +48,6 @@ Rust                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 13/09/2022 13:25:36 UTC
+ Last Updated on 14/09/2022 13:26:36 UTC
 <!--END_SECTION:waka-->
 </details>
