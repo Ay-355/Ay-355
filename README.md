@@ -26,7 +26,7 @@ Hello! I'm Ay355. I code mostly in Python and Rust, and I'm learning Haskell and
 
 **🐱 My GitHub Data** 
 
-> 🏆 106 Contributions in the Year 2022
+> 🏆 107 Contributions in the Year 2022
  > 
 > 📦 1.3 kB Used in GitHub's Storage 
  > 
@@ -36,6 +36,46 @@ Hello! I'm Ay355. I code mostly in Python and Rust, and I'm learning Haskell and
  > 
 > 🔑 3 Private Repositories  
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    20 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.81% 
+🌆 Daytime    100 commits    █████████░░░░░░░░░░░░░░░░   39.06% 
+🌃 Evening    129 commits    ████████████░░░░░░░░░░░░░   50.39% 
+🌙 Night      7 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.73%
+
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday       54 commits     █████░░░░░░░░░░░░░░░░░░░░   21.09% 
+Tuesday      41 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.02% 
+Wednesday    36 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.06% 
+Thursday     32 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+Friday       32 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+Saturday     32 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+Sunday       29 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.33%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -48,6 +88,6 @@ Rust                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 14/09/2022 13:26:36 UTC
+ Last Updated on 15/09/2022 13:27:37 UTC
 <!--END_SECTION:waka-->
 </details>
