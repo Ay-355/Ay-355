@@ -63,16 +63,17 @@ Sunday       21 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Bash                     11 mins             ████████████░░░░░░░░░░░░░   50.36% 
+PowerShell               11 mins             ████████████░░░░░░░░░░░░░   49.64%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   22 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          22 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  22 mins             █████████████████████████   100.0%
 
 ```
 
@@ -88,6 +89,6 @@ Rust                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 29/01/2023 12:53:03 UTC
+ Last Updated on 30/01/2023 13:02:04 UTC
 <!--END_SECTION:waka-->
 </details>
