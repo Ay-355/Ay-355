@@ -28,8 +28,6 @@ Hello! I'm Ay355. I code mostly in Python and Rust, and I'm learning Haskell and
 
 > 📦 2.1 kB Used in GitHub's Storage 
  > 
-> 🏆 12 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 12 Public Repositories 
@@ -85,6 +83,6 @@ HTML                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 22/12/2024 12:54:47 UTC
+ Last Updated on 23/12/2024 12:58:41 UTC
 <!--END_SECTION:waka-->
 </details>
