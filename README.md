@@ -28,7 +28,7 @@ Hello! I'm Ay355. I code mostly in Python and Rust, and I'm learning Haskell and
 
 > 📦 2.1 kB Used in GitHub's Storage 
  > 
-> 🏆 12 Contributions in the Year 2024
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -85,6 +85,6 @@ HTML                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 31/12/2024 12:57:13 UTC
+ Last Updated on 01/01/2025 12:56:58 UTC
 <!--END_SECTION:waka-->
 </details>
