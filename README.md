@@ -22,8 +22,6 @@ Hello! I'm Ay355. I code mostly in Python and Rust, and I'm learning Haskell and
 
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-274%20hrs%2037%20mins-blue)
-
 **🐱 My GitHub Data** 
 
 > 📦 2.1 kB Used in GitHub's Storage 
@@ -85,6 +83,6 @@ HTML                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 09/01/2025 12:59:47 UTC
+ Last Updated on 10/01/2025 12:59:00 UTC
 <!--END_SECTION:waka-->
 </details>
