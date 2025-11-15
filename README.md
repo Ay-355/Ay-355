@@ -26,7 +26,7 @@ Hello! I'm Ay355. I code mostly in Python and Rust, and I'm learning Haskell and
 
 **🐱 My GitHub Data** 
 
-> 📦 3.1 kB Used in GitHub's Storage 
+> 📦 3.2 kB Used in GitHub's Storage 
  > 
 > 🏆 31 Contributions in the Year 2025
  > 
@@ -61,16 +61,20 @@ Sunday                   700 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               47 mins             █████████████████████░░░░   83.66 % 
+HTML                     6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
+Bash                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  56 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+bootcamp-project-2025    56 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  56 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -85,6 +89,6 @@ Rust                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 14/11/2025 13:06:38 UTC
+ Last Updated on 15/11/2025 13:01:01 UTC
 <!--END_SECTION:waka-->
 </details>
