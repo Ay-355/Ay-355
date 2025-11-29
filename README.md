@@ -61,18 +61,16 @@ Sunday                   700 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 9 mins        ███████████████████░░░░░░   76.37 % 
-Text                     20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
-Other                    19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 49 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-concordance-aryan-4      2 hrs 49 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 49 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -87,6 +85,6 @@ Rust                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 28/11/2025 13:06:55 UTC
+ Last Updated on 29/11/2025 13:03:34 UTC
 <!--END_SECTION:waka-->
 </details>
