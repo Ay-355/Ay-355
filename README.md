@@ -22,7 +22,7 @@ Hello! I'm Ay355. I code mostly in Python and Rust, and I'm learning Haskell and
 
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-335%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-336%20hrs%2010%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -61,16 +61,19 @@ Sunday                   700 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 35 mins             ██████████████████████░░░   87.43 % 
+Python                   5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  40 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+data_structures          18 mins             ████████████░░░░░░░░░░░░░   46.22 % 
+data-structures-in-the-wi16 mins             ██████████░░░░░░░░░░░░░░░   41.21 % 
+concordance-aryan-4      5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  40 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -85,6 +88,6 @@ Rust                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 02/12/2025 13:11:23 UTC
+ Last Updated on 03/12/2025 13:11:37 UTC
 <!--END_SECTION:waka-->
 </details>
