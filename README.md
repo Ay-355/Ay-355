@@ -61,16 +61,18 @@ Sunday                   700 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               2 hrs 28 mins       █████████████████████████   99.85 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 29 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+bootcamp-project-2025    2 hrs 29 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 29 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -85,6 +87,6 @@ Rust                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 16/12/2025 13:12:38 UTC
+ Last Updated on 17/12/2025 13:12:36 UTC
 <!--END_SECTION:waka-->
 </details>
