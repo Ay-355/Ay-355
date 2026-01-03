@@ -22,8 +22,6 @@ Hello! I'm Ay355. I code mostly in Python and Rust, and I'm learning Haskell and
 
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-353%20hrs%209%20mins-blue)
-
 **🐱 My GitHub Data** 
 
 > 📦 3.2 kB Used in GitHub's Storage 
@@ -36,43 +34,6 @@ Hello! I'm Ay355. I code mostly in Python and Rust, and I'm learning Haskell and
  > 
 > 🔑 4 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                218 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
-🌆 Daytime                1821 commits        ████████░░░░░░░░░░░░░░░░░   32.54 % 
-🌃 Evening                3389 commits        ███████████████░░░░░░░░░░   60.56 % 
-🌙 Night                  168 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   751 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
-Tuesday                  554 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
-Wednesday                1027 commits        █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
-Thursday                 754 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
-Friday                   831 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
-Saturday                 979 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.49 % 
-Sunday                   700 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -85,6 +46,6 @@ Rust                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 02/01/2026 13:09:12 UTC
+ Last Updated on 03/01/2026 13:06:55 UTC
 <!--END_SECTION:waka-->
 </details>
