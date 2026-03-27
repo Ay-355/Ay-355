@@ -54,18 +54,16 @@ Sunday                   716 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Java                     2 hrs 57 mins       ███████████████████░░░░░░   74.91 % 
-Text                     59 mins             ██████░░░░░░░░░░░░░░░░░░░   25.09 % 
-IDEA_MODULE              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            3 hrs 57 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-forest-project-Ay-355    3 hrs 57 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 hrs 57 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -81,6 +79,6 @@ Rust                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 26/03/2026 14:05:08 UTC
+ Last Updated on 27/03/2026 13:48:57 UTC
 <!--END_SECTION:waka-->
 </details>
