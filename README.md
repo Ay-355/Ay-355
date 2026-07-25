@@ -15,6 +15,8 @@ Student at Cal Poly SLO
 
  
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-478%20hrs%2015%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 3.3 kB Used in GitHub's Storage 
@@ -77,6 +79,6 @@ Rust                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 14:21:57 UTC
+ Last Updated on 25/07/2026 14:10:26 UTC
 <!--END_SECTION:waka-->
 </details>
