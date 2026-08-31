@@ -25,9 +25,9 @@ Student at Cal Poly SLO
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 15 Public Repositories 
+> 📜 14 Public Repositories 
  > 
-> 🔑 3 Private Repositories 
+> 🔑 4 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -87,6 +87,6 @@ Rust                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 30/08/2026 16:56:01 UTC
+ Last Updated on 31/08/2026 19:13:24 UTC
 <!--END_SECTION:waka-->
 </details>
