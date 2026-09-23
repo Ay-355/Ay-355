@@ -15,7 +15,7 @@ Student at Cal Poly SLO
 
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-485%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-487%20hrs%2039%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -54,17 +54,19 @@ Sunday                   789 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 37 mins       █████████████████████████   99.65 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+Python                   2 hrs 37 mins       ███████████████████████░░   93.59 % 
+TypeScript               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 38 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 48 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-asgn3                    2 hrs 38 mins       █████████████████████████   100.00 % 
+asgn3                    2 hrs 38 mins       ███████████████████████░░   93.91 % 
+labs-starter-asippy      10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
 
 💻 Operating System: 
-Windows                  2 hrs 38 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 48 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -86,6 +88,6 @@ Rust                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 22/09/2026 17:09:54 UTC
+ Last Updated on 23/09/2026 17:23:36 UTC
 <!--END_SECTION:waka-->
 </details>
