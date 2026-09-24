@@ -15,7 +15,7 @@ Student at Cal Poly SLO
 
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-487%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-487%20hrs%2050%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -54,19 +54,20 @@ Sunday                   789 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 37 mins       ███████████████████████░░   93.59 % 
-TypeScript               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+Python                   2 hrs 37 mins       ██████████████████░░░░░░░   73.68 % 
+TypeScript               47 mins             ██████░░░░░░░░░░░░░░░░░░░   22.27 % 
+CSV                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 48 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 34 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-asgn3                    2 hrs 38 mins       ███████████████████████░░   93.91 % 
-labs-starter-asippy      10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
+asgn3                    2 hrs 38 mins       ██████████████████░░░░░░░   73.94 % 
+labs-starter-asippy      55 mins             ███████░░░░░░░░░░░░░░░░░░   26.06 % 
 
 💻 Operating System: 
-Windows                  2 hrs 48 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 34 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -88,6 +89,6 @@ Rust                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 23/09/2026 17:23:36 UTC
+ Last Updated on 24/09/2026 17:28:49 UTC
 <!--END_SECTION:waka-->
 </details>
