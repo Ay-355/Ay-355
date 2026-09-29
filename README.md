@@ -54,20 +54,18 @@ Sunday                   789 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 37 mins       ██████████████████░░░░░░░   73.68 % 
-TypeScript               47 mins             ██████░░░░░░░░░░░░░░░░░░░   22.27 % 
-CSV                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+TypeScript               47 mins             █████████████████████░░░░   85.44 % 
+CSV                      6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
+JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 34 mins       █████████████████████████   100.00 % 
+VS Code                  55 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-asgn3                    2 hrs 38 mins       ██████████████████░░░░░░░   73.94 % 
-labs-starter-asippy      55 mins             ███████░░░░░░░░░░░░░░░░░░   26.06 % 
+labs-starter-asippy      55 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 34 mins       █████████████████████████   100.00 % 
+Windows                  55 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -89,6 +87,6 @@ Rust                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 28/09/2026 19:49:08 UTC
+ Last Updated on 29/09/2026 18:14:10 UTC
 <!--END_SECTION:waka-->
 </details>
