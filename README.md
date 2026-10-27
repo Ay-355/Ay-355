@@ -54,18 +54,16 @@ Sunday                   789 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 19 mins        █████████████████████████   99.71 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 19 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-asgn7                    1 hr 19 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 19 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
@@ -87,6 +85,6 @@ Rust                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 26/10/2026 18:49:27 UTC
+ Last Updated on 27/10/2026 18:10:49 UTC
 <!--END_SECTION:waka-->
 </details>
